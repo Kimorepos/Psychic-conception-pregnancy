@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<VFECore.PregnancyApproachDef>
+		<defName>NoPregnancyLovin</defName>
+		<label>No pregnancy (pregnancy chance x0%)</label>
+		<cancelLabel>Safe lovin'</cancelLabel>
+		<iconPath>UI/Icons/PregnancyApproaches/AvoidPregnancy</iconPath>
+		<pregnancyChanceForPartners>0</pregnancyChanceForPartners>
+		<requiredGene>PsychicBonding</requiredGene>
+		<requireDifferentGender>false</requireDifferentGender>
+		<lovinDurationMultiplier>1.0</lovinDurationMultiplier>
+	</VFECore.PregnancyApproachDef>
+</Defs>
